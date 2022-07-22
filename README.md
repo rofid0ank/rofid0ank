@@ -6,7 +6,5 @@ Saya = {
 'Umur' : '18 Tahun',
 'Hobi' : 'Membaca',
 
-'Web' : 'rofid0ank.github.io'
-
 }
 ```
