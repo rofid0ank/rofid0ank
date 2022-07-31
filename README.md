@@ -8,4 +8,4 @@ Saya = {
 }
 ```
 
-https://github-readme-stats.vercel.app/api?username={username}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofid0ank&layout=compact)](https://github.com/rofid0ank/github-readme-stats)
