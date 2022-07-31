@@ -1,4 +1,3 @@
-![Avatar](tenor.gif)
 ```python
 Saya = {
 
