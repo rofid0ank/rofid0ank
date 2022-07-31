@@ -3,7 +3,7 @@ Perkenalkan nama saya _**Rofi**_, saya lahir di _**Bekasi**_ pada _**14 Desember
 <details>
 <summary>Media sosial</summary>
 
-* [Tiktik](link)
+* [Tiktok](link)
 * [Instagram](link)
 * [Twitter](link)
 * [Facebook](link)
