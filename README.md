@@ -1,4 +1,4 @@
-# hai nama saya rofi
-saya merupakan anak dari pasangan bapak ana dan ibu rosini, saya memiliki dua saudara kandung, yaitu anisah dan roni.
+# Hai nama saya Rofi
+Saya merupakan anak dari pasangan Bapak Ana dan Ibu Rosini, saya memiliki dua saudara kandung, yaitu Anisah dan Roni.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofid0ank&layout=compact)](https://github.com/rofid0ank/github-readme-stats)
