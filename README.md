@@ -1,10 +1,7 @@
 ```python
-data = {
+Saya = {
   'Nama':'Rofi',
-  'Hobi':'Membaca'
+  'Hobi':'Membaca',
+  'Motto':'Kalau bisa dia kenapa harus saya'
 }
-
-for k_data, v_data in data.items():
-  print(f'{k_data} : {v_daya}')
-  
 ```
