@@ -1,5 +1,6 @@
 ```python
-saya {
+saya = {
   'Nama':'Rofi',
   'Hobi':'Membaca'
 }
+```
