@@ -1,7 +1,5 @@
 
-<img src="https://github.com/rofid0ank/rofid0ank/blob/main/gambar/63581a1b25457536e4ff47941def2116.jpg" alt="gambar" width="30%">
-:----:
-
+<center><img src="https://github.com/rofid0ank/rofid0ank/blob/main/gambar/63581a1b25457536e4ff47941def2116.jpg" alt="gambar" width="30%"></center>
 
 ```python
 Saya = {
