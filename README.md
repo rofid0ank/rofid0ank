@@ -1,4 +1,5 @@
-<img src="https://github.com/rofid0ank/rofid0ank/blob/main/gambar/63581a1b25457536e4ff47941def2116.jpg" alt="gambar" height="30%">
+<img src="https://github.com/rofid0ank/rofid0ank/blob/main/gambar/63581a1b25457536e4ff47941def2116.jpg" alt="gambar" width="10%">
+
 ```python
 Saya = {
   'Nama'  : 'Rofi',
