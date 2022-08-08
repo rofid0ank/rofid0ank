@@ -7,3 +7,4 @@ class Saya:
         
 saya = Saya('Rofi', 'Membaca')
 ```
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Social=Instagram&logoColor=white)
