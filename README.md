@@ -15,4 +15,4 @@ saya = Saya('Rofi', 'Membaca')
 
 ![Gmail Saya](https://img.shields.io/badge/Gmail-D14836?style=Social=gmail&logoColor=white)
 
-![Twitter Saya](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=Social=Twitter Saya&logoColor=white)
+![Twitter Saya](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=Social=Twitter&logoColor=white)
