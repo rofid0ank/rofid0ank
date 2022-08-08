@@ -1,7 +1,9 @@
 ```python3
-Saya = {
-  'Nama'  : 'Rofi',
-  'Hobi'  : 'Membaca',
-  'Motto' : 'Kalau bisa dia kenapa harus saya'
-}
+class Saya:
+    
+    def __init__(self, NamaSaya, HobiSaya):
+        self.Nama = NamaSaya
+        self.Hobi = HobiSaya        
+        
+saya = Saya('Rofi', 'Membaca')
 ```
