@@ -1,4 +1,4 @@
 # Hello GitHub :wave:
 
-Im from :Indonesia:
+Im from :indonesia:
 
